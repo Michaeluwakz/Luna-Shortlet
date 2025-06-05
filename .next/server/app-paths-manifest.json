@@ -1,0 +1,8 @@
+{
+  "/(public)/page": "app/(public)/page.js",
+  "/(public)/payment/page": "app/(public)/payment/page.js",
+  "/(public)/properties/[id]/page": "app/(public)/properties/[id]/page.js",
+  "/(public)/properties/page": "app/(public)/properties/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
